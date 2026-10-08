@@ -6,8 +6,8 @@ features.
   functional browser
   Built-in MP3 player 
   Sticky note widget 
-  a custom theme 
+  A custom theme 
   Vertical and horizontal tab rows
   Floatable and dockable URL and nav bar
 
-I might work on this more if I get motivation to
+I might work on this more if I get motivation. At the time of writing this, I am not too motivated; I might add or fix a bug randomly, but nothing major
